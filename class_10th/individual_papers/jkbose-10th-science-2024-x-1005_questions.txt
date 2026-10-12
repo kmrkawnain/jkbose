@@ -1,0 +1,198 @@
+================================================================================
+JAMMU AND KASHMIR STATE BOARD OF SCHOOL EDUCATION (JKBOSE)
+SECONDARY SCHOOL EXAMINATION (CLASS 10TH) - OFFICIAL QUESTION PAPER
+================================================================================
+EXAM PAPER TITLE : JK-BOSE-CLASS-10-SCIENCE-1005-X-2024
+SUBJECT          : SCIENCE
+CLASS / LEVEL    : Class 10TH
+EXAMINATION YEAR : 2024
+SERIES / SET     : SET X
+QUESTION CODE    : 1005
+MAXIMUM MARKS    : 84 MARKS
+TIME ALLOWED     : 3 HOURS
+================================================================================
+
+GENERAL INSTRUCTIONS:
+--------------------------------------------------------------------------------
+  (1) The question paper comprises three sections: Section I (Physics), Section II (Chemistry), and Section III (Biology / Life Sciences).
+  (2) All sections and questions are compulsory.
+  (3) Section I (Physics) carries 32 marks (Q. 1 to Q. 13).
+  (4) Section II (Chemistry) carries 32 marks (Q. 14 to Q. 26).
+  (5) Section III (Biology) carries 20 marks (Q. 27 to Q. 36).
+  (6) Internal choice has been provided in questions of 5 marks.
+  (7) Neat, labelled diagrams must be drawn wherever necessary.
+--------------------------------------------------------------------------------
+
+================================================================================
+SECTION I : PHYSICS : OPTICS, ELECTRICITY, MAGNETIC EFFECTS, AND ENERGY
+[Q. 1 to Q. 13 [Total: 32 Marks]]
+================================================================================
+
+Q.01 [1 Mark] (Light - Optics):
+     Define the principal focus of a concave mirror. What is the relation between its focal length (f) and radius of curvature (R)?
+
+Q.02 [1 Mark] (Optics - Lens Power):
+     A doctor prescribes a corrective lens of power -2.0 D. Find the focal length of the lens. Is the prescribed lens converging or diverging?
+
+Q.03 [1 Mark] (Electricity):
+     State Ohm's Law and express it in mathematical form relating Potential Difference (V), Current (I), and Resistance (R).
+
+Q.04 [1 Mark] (Magnetism):
+     Why don't two magnetic field lines ever intersect each other?
+
+Q.05 [1 Mark] (Energy Sources):
+     What is the role of a plane mirror and glass sheet in a box-type solar cooker?
+
+Q.06 [2 Marks] (Optics - Refraction):
+     A ray of light traveling in air enters obliquely into water. Does the light ray bend towards the normal or away from the normal? Explain why with reference to optical density.
+
+Q.07 [2 Marks] (Human Eye Defects):
+     A student unable to see clearly the words written on the blackboard placed at a distance of 3 m. Name the defect of vision the boy is suffering from. How can this defect be corrected?
+
+Q.08 [2 Marks] (Electricity Numericals):
+     Two resistors of resistance R₁ = 5 Ω and R₂ = 9 Ω are connected in: (a) Series, (b) Parallel. Calculate the equivalent resistance in each case.
+
+Q.09 [3 Marks] (Optics - Ray Diagrams):
+     An object 5 cm in length is placed at a distance of 20 cm in front of a convex mirror of radius of curvature 30 cm. Find the position, nature, and size of the image formed. Draw a neat ray diagram.
+
+Q.10 [3 Marks] (Joule Heating & Power):
+     State Joule's law of heating. An electric iron of resistance 20 Ω takes a current of 5 A. Calculate the heat generated in 30 seconds.
+
+Q.11 [3 Marks] (Electromagnetic Induction):
+     State Fleming's Left-Hand Rule and Fleming's Right-Hand Rule. Specify which rule is used to determine the direction of force on a current-carrying conductor in a magnetic field.
+
+Q.12 [5 Marks] (Electric Motor & Generator):
+     Explain with the help of a neat, labelled diagram the principle, construction, and working of an Electric Motor. What is the function of split rings (commutator) in an electric motor?
+
+     ----------------------------------------------------------------------
+     [OR CHOICE]
+     Explain the principle and working of an AC Generator with a neat labelled diagram. What is the difference between Alternating Current (AC) and Direct Current (DC)? Why is AC considered advantageous for long-distance power transmission?
+
+Q.13 [5 Marks] (Human Eye & Atmospheric Optics):
+     (a) Draw a neat diagram of the Human Eye and label: Cornea, Iris, Pupil, Crystalline Lens, and Retina.
+     (b) Explain with diagrams the cause and correction of Hypermetropia (far-sightedness).
+     (c) Why do stars twinkle while planets do not twinkle?
+
+     ----------------------------------------------------------------------
+     [OR CHOICE]
+     (a) What is dispersion of white light? Explain with a ray diagram how a glass prism disperses white light into its spectrum.
+     (b) Explain the formation of a rainbow in the sky with a labelled diagram.
+     (c) Why does the sky appear dark to an astronaut instead of blue?
+
+================================================================================
+SECTION II : CHEMISTRY : REACTIONS, ACIDS-BASES, METALS, CARBON, AND PERIODIC CLASSIFICATION
+[Q. 14 to Q. 26 [Total: 32 Marks]]
+================================================================================
+
+Q.14 [1 Mark] (Chemical Reactions):
+     Why should a magnesium ribbon be cleaned with sandpaper before burning in air?
+
+Q.15 [1 Mark] (Acids, Bases & Salts):
+     Write the chemical name, chemical formula, and one important use of Bleaching Powder.
+
+Q.16 [1 Mark] (Metals & Non-metals):
+     Name one metal and one non-metal which exist in the liquid state at room temperature.
+
+Q.17 [1 Mark] (Carbon Compounds):
+     Write the IUPAC name and structural formula of the second member of the alkyne series (propyne).
+
+Q.18 [1 Mark] (Periodic Classification):
+     State Modern Periodic Law. How does the metallic character of elements vary down a group in the Modern Periodic Table?
+
+Q.19 [2 Marks] (Chemical Equations):
+     Balance the following chemical equations:
+           (i) Fe + H₂O → Fe₃O₄ + H₂
+           (ii) HNO₃ + Ca(OH)₂ → Ca(NO₃)₂ + H₂O
+
+Q.20 [2 Marks] (Acids and Bases):
+     Why does dry HCl gas not change the color of dry litmus paper, whereas aqueous hydrochloric acid does?
+
+Q.21 [2 Marks] (Metallurgy):
+     Differentiate between Roasting and Calcination with suitable balanced chemical equations.
+
+Q.22 [3 Marks] (Ionic Bonding):
+     (a) Write the electron-dot structures for Sodium (Na), Oxygen (O), and Magnesium (Mg).
+     (b) Show the formation of Na₂O and MgO by the transfer of electrons.
+     (c) Why do ionic compounds have high melting and boiling points?
+
+Q.23 [3 Marks] (Carbon Homologous Series):
+     (a) What is a homologous series? State any two characteristics of a homologous series.
+     (b) Explain why carbon forms a vast number of compounds (tetravalency and catenation).
+
+Q.24 [3 Marks] (Periodic Trends):
+     An element 'X' has atomic number 17.
+           (i) Write its electronic configuration.
+           (ii) To which group and period does it belong in the Modern Periodic Table?
+           (iii) State whether it is a metal or a non-metal and write the formula of its chloride.
+
+Q.25 [5 Marks] (Carbon Chemistry - Ethanol & Ethanoic Acid):
+     (a) How can ethanol and ethanoic acid be differentiated on the basis of their physical and chemical properties?
+     (b) Explain the mechanism of the cleansing action of soaps with a neat labelled diagram of micelle formation.
+     (c) What happens when ethanoic acid reacts with sodium hydrogen carbonate? Write the balanced chemical equation.
+
+     ----------------------------------------------------------------------
+     [OR CHOICE]
+     (a) Explain the following chemical reactions with balanced equations:
+         (i) Esterification reaction
+         (ii) Saponification reaction
+         (iii) Addition reaction of unsaturated hydrocarbons
+     (b) Why are detergents preferred over soaps for washing clothes in hard water?
+
+Q.26 [5 Marks] (Metals Extraction & Corrosion):
+     (a) Explain the electrolytic refining of copper with a neat, labelled diagram.
+     (b) What is an alloy? Give the composition and uses of Brass and Stainless Steel.
+     (c) What is corrosion? Mention two effective methods to prevent rusting of iron.
+
+     ----------------------------------------------------------------------
+     [OR CHOICE]
+     (a) What happens when Plaster of Paris is mixed with water? Write the chemical equation.
+     (b) How is Sodium Hydroxide manufactured industrially by the Chlor-alkali process? Name the gases liberated at the anode and cathode.
+     (c) Define universal indicator and pH. What is the pH of human blood and acid rain?
+
+================================================================================
+SECTION III : BIOLOGY (LIFE SCIENCES) : LIFE PROCESSES, CONTROL-COORDINATION, REPRODUCTION, HEREDITY, AND ECOLOGY
+[Q. 27 to Q. 36 [Total: 20 Marks]]
+================================================================================
+
+Q.27 [1 Mark] (Life Processes):
+     What is the role of hydrochloric acid (HCl) and pepsin in the stomach during digestion?
+
+Q.28 [1 Mark] (Control & Coordination):
+     Name the plant hormone responsible for: (i) Promotion of cell division, (ii) Wilting of leaves / growth inhibition.
+
+Q.29 [1 Mark] (Reproduction):
+     What is vegetative propagation? Give one example of a plant that reproduces through leaves.
+
+Q.30 [1 Mark] (Environment):
+     What is the 10% law of energy transfer in an ecosystem? Who proposed this law?
+
+Q.31 [2 Marks] (Respiration Comparison):
+     Differentiate between Aerobic Respiration and Anaerobic Respiration with reference to oxygen requirement, site of reaction, and amount of energy released.
+
+Q.32 [2 Marks] (Plant Transport):
+     How are water and minerals transported in plants? Contrast the functioning of Xylem and Phloem tissues.
+
+Q.33 [2 Marks] (Heredity & Genetics):
+     How is the sex of a child determined in human beings? Explain with a genetic cross showing XX and XY chromosomes.
+
+Q.34 [3 Marks] (Nervous System - Reflex Arc):
+     What is a reflex arc? Trace the sequence of events that occur when you accidentally touch a hot object. Draw a neat, labelled diagram of a reflex arc.
+
+Q.35 [3 Marks] (Ozone Depletion & Food Chains):
+     (a) What is biological magnification? Explain with an example of an aquatic food chain.
+     (b) How is the ozone layer formed in the stratosphere? Write the equation and explain why its depletion is a cause for global concern.
+
+Q.36 [5 Marks] (Human Heart & Circulation OR Excretory System):
+     (a) Draw a neat diagram of the Human Heart and label: Left atrium, Left ventricle, Right atrium, Right ventricle, Aorta, and Vena Cava.
+     (b) Explain the concept of double circulation in human beings. Why is it necessary to separate oxygenated and deoxygenated blood in mammals and birds?
+
+     ----------------------------------------------------------------------
+     [OR CHOICE]
+     (a) Draw a neat, labelled diagram of a Nephron (functional unit of kidney).
+     (b) Describe the three main steps involved in the process of urine formation: (i) Glomerular filtration, (ii) Tubular reabsorption, (iii) Tubular secretion.
+     (c) What is the function of artificial kidney (hemodialysis)?
+
+================================================================================
+[END OF QUESTION PAPER - JK-BOSE-CLASS-10-SCIENCE-1005-X-2024]
+Official Source Archive: https://www.jkboseonline.com/#final-papers
+================================================================================

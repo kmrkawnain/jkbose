@@ -1,0 +1,253 @@
+================================================================================
+JAMMU AND KASHMIR STATE BOARD OF SCHOOL EDUCATION (JKBOSE)
+SECONDARY SCHOOL EXAMINATION (CLASS 10TH) - OFFICIAL QUESTION PAPER
+================================================================================
+EXAM PAPER TITLE : JK-BOSE-CLASS-10-MATHEMATICS-9303-Y-2023
+SUBJECT          : MATHEMATICS
+EXAMINATION YEAR : 2023
+SERIES / SET     : SET Y
+QUESTION CODE    : 9303
+MAXIMUM MARKS    : 80 MARKS
+TIME ALLOWED     : 3 HOURS
+================================================================================
+
+GENERAL INSTRUCTIONS:
+--------------------------------------------------------------------------------
+  (1) All questions are compulsory.
+  (2) The question paper consists of 40 questions divided into 4 Sections: A, B, C, and D.
+  (3) Section A comprises 20 questions of 1 mark each (Q. 1 to Q. 20: 10 MCQs, 5 Fill in the Blanks, and 5 Objective/Short Answer).
+  (4) Section B comprises 6 questions of 2 marks each (Q. 21 to Q. 26).
+  (5) Section C comprises 8 questions of 3 marks each (Q. 27 to Q. 34).
+  (6) Section D comprises 6 questions of 4 marks each (Q. 35 to Q. 40) with internal choice provided in all questions.
+  (7) Use of calculators is strictly prohibited.
+--------------------------------------------------------------------------------
+
+================================================================================
+SECTION A : OBJECTIVE, MULTIPLE CHOICE, AND FILL-IN-THE-BLANK QUESTIONS
+[Q. 1 to Q. 20 (1 Mark each | Total: 20 Marks)]
+================================================================================
+
+Q.01 [1 Mark] (Real Numbers):
+     If two positive integers 'a' and 'b' are expressible in the form a = p³q² and b = p²q⁴, where p and q are prime numbers, then HCF(a, b) is equal to:
+
+     (A) pq
+     (B) p²q²
+     (C) p³q⁴
+     (D) p²q
+
+Q.02 [1 Mark] (Real Numbers):
+     The decimal representation of the rational number 17 / (2³ × 5²) will terminate after how many decimal places?
+
+     (A) 1 decimal place
+     (B) 2 decimal places
+     (C) 3 decimal places
+     (D) 4 decimal places
+
+Q.03 [1 Mark] (Polynomials):
+     If one of the zeroes of the quadratic polynomial f(x) = x² + 5x + k is 3, find the exact numerical value of constant 'k':
+
+     (A) -24
+     (B) 24
+     (C) 15
+     (D) -5
+
+Q.04 [1 Mark] (Linear Equations):
+     The pair of equations x + 2y + 5 = 0 and -3x - 6y + 1 = 0 has:
+
+     (A) A unique solution
+     (B) Exactly two solutions
+     (C) Infinitely many solutions
+     (D) No solution (Parallel lines)
+
+Q.05 [1 Mark] (Quadratic Equations):
+     Which of the following quadratic equations has two distinct real roots?
+
+     (A) 2x² - 3√2x + 9/4 = 0
+     (B) x² + x - 5 = 0
+     (C) x² + 3x + 2√2 = 0
+     (D) 5x² - 3x + 1 = 0
+
+Q.06 [1 Mark] (Arithmetic Progressions):
+     In an Arithmetic Progression with first term a = 6 and common difference d = 4, the 11th term (a₁₁) is:
+
+     (A) 46
+     (B) 50
+     (C) 42
+     (D) 34
+
+Q.07 [1 Mark] (Coordinate Geometry):
+     The distance of the point P(-7, 8) from the origin (0, 0) is:
+
+     (A) 11 units
+     (B) 7 units
+     (C) 8 units
+     (D) 15 units
+
+Q.08 [1 Mark] (Triangles):
+     In triangle ABC, DE || BC such that AD = 5 cm, DB = 7 cm, and AE = 3 cm. The length of EC is:
+
+     (A) 4.20 cm
+     (B) 8 cm
+     (C) 1.67 cm
+     (D) 4.50 cm
+
+Q.09 [1 Mark] (Trigonometry):
+     If sin θ = 1/2, then the value of (3 cos θ - 4 cos³ θ) is equal to:
+
+     (A) 0
+     (B) 1
+     (C) 1/2
+     (D) -1
+
+Q.10 [1 Mark] (Circles):
+     From a point Q, the length of the tangent to a circle is 24 cm and the distance of Q from the center is 25 cm. The radius of the circle is:
+
+     (A) 7 cm
+     (B) 12 cm
+     (C) 15 cm
+     (D) 24.5 cm
+
+Q.11 [1 Mark] (Trigonometric Identities):
+     The numerical value of (sec² 45° - tan² 45°) is equal to ________.
+
+Q.12 [1 Mark] (Probability):
+     The probability of an event that is impossible or cannot happen is ________.
+
+Q.13 [1 Mark] (Areas Related to Circles):
+     If the perimeter and area of a circle are numerically equal, then the radius of the circle is ________ units.
+
+Q.14 [1 Mark] (Coordinate Geometry):
+     The coordinates of the midpoint of the line segment joining A(2, -5) and B(-2, 9) are ________.
+
+Q.15 [1 Mark] (Quadratic Equations):
+     For the quadratic equation ax² + bx + c = 0, the discriminant D is given by the formula D = ________.
+
+Q.16 [1 Mark] (Real Numbers):
+     State whether the number √11 is a rational or an irrational number.
+
+Q.17 [1 Mark] (Arithmetic Progressions):
+     Write down the common difference (d) of the A.P.: 14, 11, 8, 5...
+
+Q.18 [1 Mark] (Statistics):
+     Write the empirical relationship between the three measures of central tendency (Mean, Median, and Mode).
+
+Q.19 [1 Mark] (Circles):
+     How many parallel tangents can a single circle have at most?
+
+Q.20 [1 Mark] (Probability):
+     If P(E) = 0.09, what is the probability of 'not E', denoted by P(not E)?
+
+================================================================================
+SECTION B : VERY SHORT ANSWER TYPE QUESTIONS - I
+[Q. 21 to Q. 26 (2 Marks each | Total: 12 Marks)]
+================================================================================
+
+Q.21 [2 Marks] (Real Numbers):
+     Using Euclid's Division Algorithm, compute the Highest Common Factor (HCF) of 155 and 245.
+
+Q.22 [2 Marks] (Polynomials):
+     Find a quadratic polynomial whose sum and product of zeroes are -5 and 3 respectively.
+
+Q.23 [2 Marks] (Arithmetic Progressions):
+     Check whether -150 is a term of the Arithmetic Progression 11, 8, 5, 2... Justify your answer mathematically.
+
+Q.24 [2 Marks] (Coordinate Geometry):
+     Find the value of 'y' for which the distance between the points P(2, -3) and Q(10, y) is 10 units.
+
+Q.25 [2 Marks] (Trigonometry):
+     If tan 2A = cot (A - 18°), where 2A is an acute angle, calculate the numerical degree value of angle A.
+
+Q.26 [2 Marks] (Probability):
+     A box contains 5 red marbles, 8 white marbles, and 4 green marbles. One marble is drawn at random from the box. Find the probability that the marble drawn will be: (i) red, (ii) not green.
+
+================================================================================
+SECTION C : SHORT ANSWER TYPE QUESTIONS - II
+[Q. 27 to Q. 34 (3 Marks each | Total: 24 Marks)]
+================================================================================
+
+Q.27 [3 Marks] (Real Numbers Proof):
+     Prove that √5 is an irrational number using the method of contradiction.
+
+Q.28 [3 Marks] (Linear Equations):
+     Solve the following pair of linear equations algebraically using the substitution or elimination method:
+           5x + 4y = 10
+           2x - 2y = 2
+
+Q.29 [3 Marks] (Quadratic Equations Word Problem):
+     The diagonal of a rectangular field is 60 meters more than the shorter side. If the longer side is 30 meters more than the shorter side, find the lengths of the sides of the field.
+
+Q.30 [3 Marks] (Arithmetic Progressions):
+     Find the sum of the first 51 terms of an A.P. whose second and third terms are 14 and 18 respectively.
+
+Q.31 [3 Marks] (Coordinate Geometry):
+     Find the ratio in which the y-axis divides the line segment joining the points (5, -6) and (-1, -4). Also determine the coordinates of the point of intersection.
+
+Q.32 [3 Marks] (Trigonometric Proof):
+     Prove the following identity:
+           (sin θ - 2 sin³ θ) / (2 cos³ θ - cos θ) = tan θ
+
+Q.33 [3 Marks] (Circles Geometry Theorem):
+     Prove that the tangents drawn at the ends of a diameter of a circle are parallel to each other.
+
+Q.34 [3 Marks] (Areas Related to Circles):
+     A chord of a circle of radius 15 cm subtends an angle of 60° at the center. Calculate the areas of the corresponding minor and major segments of the circle. (Take π = 3.14 and √3 = 1.73).
+
+================================================================================
+SECTION D : LONG ANSWER TYPE QUESTIONS (WITH INTERNAL CHOICES)
+[Q. 35 to Q. 40 (4 Marks each | Total: 24 Marks)]
+================================================================================
+
+Q.35 [4 Marks] (Geometric Theorems (BPT)):
+     State and prove the Basic Proportionality Theorem (Thales' Theorem). Using this theorem, in a triangle ABC, if D and E are points on AB and AC such that DE || BC and AD/DB = 3/5, if AC = 4.8 cm, find AE.
+
+     ----------------------------------------------------------------------
+     [OR CHOICE]
+     Prove that if in two triangles, corresponding angles are equal, then their corresponding sides are in the same ratio (or proportion) and hence the two triangles are similar (AAA Similarity Criterion).
+
+Q.36 [4 Marks] (Heights and Distances (Trigonometry)):
+     From the top of a 7 m high building, the angle of elevation of the top of a cable tower is 60° and the angle of depression of its foot is 45°. Determine the total height of the tower.
+
+     ----------------------------------------------------------------------
+     [OR CHOICE]
+     A 1.2 m tall girl spots a balloon moving with the wind in a horizontal line at a height of 88.2 m from the ground. The angle of elevation of the balloon from the eyes of the girl at any instant is 60°. After some time, the angle of elevation reduces to 30°. Find the distance traveled by the balloon during the interval.
+
+Q.37 [4 Marks] (Geometric Constructions):
+     Draw a triangle ABC with side BC = 6 cm, AB = 5 cm, and ∠ABC = 60°. Then construct a triangle whose sides are 3/4 of the corresponding sides of triangle ABC. Write down the steps of construction clearly.
+
+     ----------------------------------------------------------------------
+     [OR CHOICE]
+     Draw a circle of radius 3 cm. Take two points P and Q on one of its extended diameters each at a distance of 7 cm from its center. Draw tangents to the circle from these two points P and Q.
+
+Q.38 [4 Marks] (Surface Areas and Volumes):
+     A solid toy is in the form of a hemisphere surmounted by a right circular cone. The height of the cone is 2 cm and the diameter of the base is 4 cm. Determine the total volume of the toy. (Take π = 3.14).
+
+     ----------------------------------------------------------------------
+     [OR CHOICE]
+     A metallic right circular cone 20 cm high and whose vertical angle is 60° is cut into two parts at the middle of its height by a plane parallel to its base. If the frustum so obtained be drawn into a wire of diameter 1/16 cm, find the length of the wire.
+
+Q.39 [4 Marks] (Statistics (Mean & Median Calculation)):
+     The following table gives the distribution of marks scored by 100 students in a Mathematics examination:
+     
+           Marks Class Interval :  0-10   10-20   20-30   30-40   40-50   50-60
+           Number of Students   :    7      14      28      26      16       9
+     
+           Calculate the Mean marks using the Assumed Mean Method and find the Mode of this grouped distribution.
+
+     ----------------------------------------------------------------------
+     [OR CHOICE]
+     The median of the following frequency distribution table is 28.5. Find the unknown values of frequencies 'x' and 'y', given that total frequency is 60:
+     
+           Class Interval :  0-10   10-20   20-30   30-40   40-50   50-60   Total
+           Frequency      :    5       x      20      15       y       5      60
+
+Q.40 [4 Marks] (Applied Quadratic Equations):
+     A motor boat whose speed is 18 km/h in still water takes 1 hour more to go 24 km upstream than to return downstream to the same spot. Find the speed of the stream.
+
+     ----------------------------------------------------------------------
+     [OR CHOICE]
+     Two water taps together can fill a tank in 9 3/8 hours. The tap of larger diameter takes 10 hours less than the smaller one to fill the tank separately. Find the time in which each tap can separately fill the tank.
+
+================================================================================
+[END OF QUESTION PAPER - JK-BOSE-CLASS-10-MATHEMATICS-9303-Y-2023]
+Target Archive: https://www.jkboseonline.com/#final-papers
+================================================================================
