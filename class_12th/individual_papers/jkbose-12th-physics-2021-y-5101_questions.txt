@@ -1,0 +1,129 @@
+================================================================================
+JAMMU AND KASHMIR STATE BOARD OF SCHOOL EDUCATION (JKBOSE)
+HIGHER SECONDARY EXAMINATION PART-II (CLASS 12TH) - OFFICIAL QUESTION PAPER
+================================================================================
+EXAM PAPER TITLE : JK-BOSE-CLASS-12-PHYSICS-5101-Y-2021
+SUBJECT          : PHYSICS (CLASS 12TH)
+CLASS / LEVEL    : Class 12TH
+EXAMINATION YEAR : 2021
+SERIES / SET     : SET Y
+QUESTION CODE    : 5101
+MAXIMUM MARKS    : 70 MARKS
+TIME ALLOWED     : 3 HOURS
+================================================================================
+
+GENERAL INSTRUCTIONS:
+--------------------------------------------------------------------------------
+  (1) All questions are compulsory. There are 15 questions in this paper.
+  (2) Section A comprises Q. 1 to Q. 6 of 1 mark each.
+  (3) Section B comprises Q. 7 to Q. 9 of 2 marks each.
+  (4) Section C comprises Q. 10 to Q. 13 of 3 marks each.
+  (5) Section D comprises Q. 14 to Q. 15 of 5 marks each with internal choice.
+  (6) Logarithmic tables may be used. Electronic calculators are strictly forbidden.
+--------------------------------------------------------------------------------
+
+================================================================================
+SECTION A : OBJECTIVE & VERY SHORT ANSWER
+[Q. 01 to Q. 06 [6 Marks]]
+================================================================================
+
+Q.01 [1 Mark] (Electrostatics - Gauss Law):
+     An electric dipole of dipole moment p is placed in a uniform electric field E at an angle of 90°. The torque acting on the dipole is:
+
+     (A) pE
+     (B) 0
+     (C) -pE
+     (D) pE/2
+
+Q.02 [1 Mark] (Current Electricity - Drift Velocity):
+     When a potential difference V is applied across a conductor of length L, the drift velocity of free electrons is proportional to:
+
+     (A) V and L
+     (B) V and 1/L
+     (C) 1/V and L
+     (D) √V and L
+
+Q.03 [1 Mark] (Electromagnetic Induction):
+     Lenz’s law of electromagnetic induction is a consequence of the law of conservation of:
+
+     (A) Charge
+     (B) Momentum
+     (C) Energy
+     (D) Mass
+
+Q.04 [1 Mark] (Wave Optics):
+     In Young’s double slit experiment, if the separation between the slits is halved and the distance between the slits and screen is doubled, the fringe width will:
+
+     (A) Remain unchanged
+     (B) Be doubled
+     (C) Become four-fold
+     (D) Be halved
+
+Q.05 [1 Mark] (Dual Nature of Radiation):
+     State how the de Broglie wavelength (λ) of an electron varies with its accelerating potential (V).
+
+Q.06 [1 Mark] (Semiconductors):
+     Why is a semiconductor damaged by a strong current, and what is the width of the depletion layer in a forward-biased p-n junction?
+
+================================================================================
+SECTION B : SHORT ANSWER TYPE QUESTIONS - I
+[Q. 07 to Q. 09 [6 Marks]]
+================================================================================
+
+Q.07 [2 Marks] (Current Electricity - Kirchhoff Rules):
+     State Kirchhoff's First Rule (Junction Rule) and Second Rule (Loop Rule). Name the conservation principles on which they are based.
+
+Q.08 [2 Marks] (Magnetism - Moving Charges):
+     Derive an expression for the force per unit length between two infinitely long straight parallel conductors carrying currents I₁ and I₂ separated by a distance 'd'. Define 1 Ampere.
+
+Q.09 [2 Marks] (Nuclear Physics):
+     Define mass defect and binding energy per nucleon. Draw a graph showing the variation of binding energy per nucleon with mass number (A).
+
+================================================================================
+SECTION C : SHORT ANSWER TYPE QUESTIONS - II
+[Q. 10 to Q. 13 [12 Marks]]
+================================================================================
+
+Q.10 [3 Marks] (Ray Optics - Lens Maker Formula):
+     Derive the Lens Maker's Formula 1/f = (μ - 1)(1/R₁ - 1/R₂) for a thin double convex lens of radii of curvature R₁ and R₂.
+
+Q.11 [3 Marks] (Alternating Current - LCR Series Circuit):
+     An alternating voltage V = V₀ sin(ωt) is applied across a series LCR circuit. Obtain the impedance (Z) using the phasor diagram and find the condition for electrical resonance.
+
+Q.12 [3 Marks] (Photoelectric Effect):
+     State Einstein's photoelectric equation. Explain the characteristics of photoelectric emission (threshold frequency, saturation current, and stopping potential).
+
+Q.13 [3 Marks] (Semiconductor Diodes):
+     Explain the working of a full-wave rectifier using two junction diodes with a neat circuit diagram. Draw input and output waveforms.
+
+================================================================================
+SECTION D : LONG ANSWER TYPE QUESTIONS (CHOICE)
+[Q. 14 to Q. 15 [10 Marks]]
+================================================================================
+
+Q.14 [5 Marks] (Electrostatics - Capacitance & Gauss Law):
+     State Gauss's Law in electrostatics.
+     Using Gauss's Law, derive an expression for the electric field intensity due to an infinitely long straight uniformly charged wire.
+     A parallel plate capacitor with air between the plates has a capacitance of 8 pF. What will be the capacitance if the distance between the plates is reduced by half and the space between them is filled with a dielectric substance of dielectric constant K = 6?
+
+     ----------------------------------------------------------------------
+     OR
+     Define electric potential.
+     Derive an expression for the electrostatic potential energy of an electric dipole placed in a uniform electric field.
+     Derive the formula for the capacitance of a parallel plate capacitor with a dielectric slab inserted between its plates.
+
+Q.15 [5 Marks] (Electromagnetic Induction & AC Generator):
+     Explain the principle, construction, and working of an AC Generator with the help of a labelled diagram.
+     Derive the expression for the induced alternating EMF generated in the rotating coil.
+     State the energy losses occurring in a real transformer and how they can be minimized.
+
+     ----------------------------------------------------------------------
+     OR
+     State Huygens' Principle of wave optics.
+     Using Huygens' wave theory, prove the Laws of Reflection and Laws of Refraction at a plane separating two optical media.
+     In Young's double slit experiment using monochromatic light of wavelength 600 nm, 12 fringes are observed in a certain segment of the screen. How many fringes will be observed in the same segment if light of wavelength 400 nm is used?
+
+================================================================================
+[END OF QUESTION PAPER - JK-BOSE-CLASS-12-PHYSICS-5101-Y-2021]
+Official Source Archive: https://www.jkboseonline.com/jk-bose-class-12.html
+================================================================================
