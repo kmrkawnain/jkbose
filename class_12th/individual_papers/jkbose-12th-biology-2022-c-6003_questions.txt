@@ -1,0 +1,100 @@
+================================================================================
+JAMMU AND KASHMIR STATE BOARD OF SCHOOL EDUCATION (JKBOSE)
+HIGHER SECONDARY EXAMINATION PART-II (CLASS 12TH) - OFFICIAL QUESTION PAPER
+================================================================================
+EXAM PAPER TITLE : JK-BOSE-CLASS-12-BIOLOGY-BOTANY-6003-C-2022
+SUBJECT          : BIOLOGY (CLASS 12TH)
+CLASS / LEVEL    : Class 12TH
+EXAMINATION YEAR : 2022
+SERIES / SET     : SET C
+QUESTION CODE    : 6003
+MAXIMUM MARKS    : 70 MARKS
+TIME ALLOWED     : 3 HOURS
+================================================================================
+
+GENERAL INSTRUCTIONS:
+--------------------------------------------------------------------------------
+  (1) The question paper contains two sections: Section A (Botany) and Section B (Zoology).
+  (2) Both sections are compulsory and carry 35 marks each.
+  (3) Diagrams must be clear and properly labelled.
+--------------------------------------------------------------------------------
+
+================================================================================
+SECTION A : BOTANY : ANGIOSPERM REPRODUCTION, GENETICS, AND PLANT BIOTECHNOLOGY
+[Q. 01 to Q. 06 [35 Marks]]
+================================================================================
+
+Q.01 [1 Mark] (Sexual Reproduction in Flowering Plants):
+     The ploidy level of the Primary Endosperm Nucleus (PEN) in angiosperms after double fertilization is:
+
+     (A) Haploid (n)
+     (B) Diploid (2n)
+     (C) Triploid (3n)
+     (D) Tetraploid (4n)
+
+Q.02 [1 Mark] (Genetics - Molecular Biology):
+     Which enzyme synthesizes the RNA primer required during DNA replication?
+
+     (A) DNA Polymerase I
+     (B) DNA Primase
+     (C) Topoisomerase
+     (D) DNA Ligase
+
+Q.03 [2 Marks] (Microbes in Human Welfare):
+     Name the biocontrol agents used in organic farming to manage pests without synthetic pesticides.
+
+Q.04 [2 Marks] (Ecosystem):
+     Differentiate between standing crop and standing state in an ecosystem.
+
+Q.05 [3 Marks] (Molecular Genetics - Lac Operon):
+     Describe the regulation of the Lac Operon model in E. coli in the presence and absence of lactose (inducer).
+
+Q.06 [5 Marks] (Plant Reproduction):
+     Describe the development of a female gametophyte (embryo sac) from a functional megaspore in angiosperms with labelled diagrams. What is monosporic development?
+
+     ----------------------------------------------------------------------
+     OR
+     State Mendel's Law of Independent Assortment.
+     Explain with the help of a Punnett square the inheritance of two pairs of contrasting traits (Dihybrid Cross) in Pisum sativum (Pea plant).
+
+================================================================================
+SECTION B : ZOOLOGY : HUMAN REPRODUCTION, HEALTH, EVOLUTION, AND ANIMAL BIOTECHNOLOGY
+[Q. 07 to Q. 12 [35 Marks]]
+================================================================================
+
+Q.07 [1 Mark] (Human Reproduction):
+     The hormone responsible for the surge causing ovulation from the Graafian follicle is:
+
+     (A) Progesterone
+     (B) Luteinizing Hormone (LH)
+     (C) FSH
+     (D) Estrogen
+
+Q.08 [1 Mark] (Biotechnology):
+     Restriction endonucleases cleave DNA molecules at specific palindromic recognition sequences, creating:
+
+     (A) Sticky ends or blunt ends
+     (B) RNA transcripts
+     (C) Peptide bonds
+     (D) Okazaki fragments
+
+Q.09 [2 Marks] (Reproductive Health):
+     Explain what is meant by Assisted Reproductive Technologies (ART). Briefly describe IVF-ET and ICSI.
+
+Q.10 [2 Marks] (Human Health and Disease):
+     Differentiate between Innate Immunity and Acquired Immunity. Mention two physiological barriers of innate immunity.
+
+Q.11 [3 Marks] (Biotechnology Principles - PCR):
+     Explain the three sequential steps involved in Polymerase Chain Reaction (PCR): Denaturation, Annealing, and Extension.
+
+Q.12 [5 Marks] (Human Physiology / Evolution):
+     Describe the structure of human sperm and explain the process of Spermatogenesis with the help of a schematic diagram.
+
+     ----------------------------------------------------------------------
+     OR
+     Explain the life cycle of the malarial parasite Plasmodium vivax with a detailed schematic diagram illustrating human host and female Anopheles mosquito stages.
+
+================================================================================
+[END OF QUESTION PAPER - JK-BOSE-CLASS-12-BIOLOGY-BOTANY-6003-C-2022]
+Official Source Archive: https://www.jkboseonline.com/jk-bose-class-12.html
+================================================================================
