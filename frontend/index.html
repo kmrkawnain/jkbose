@@ -1,0 +1,397 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="JKBOSE AI — Student Exam Assistant & Question Paper Intelligence">
+    <title>JKBOSE AI — Student Exam Assistant</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body class="app-layout">
+
+    <!-- ═══════════════════════════════════════════════════════════════
+         AMBIENT AURORA MESH (Multi-color background glow)
+         ═══════════════════════════════════════════════════════════════ -->
+    <div class="aurora-bg">
+        <div class="aurora-orb orb-indigo"></div>
+        <div class="aurora-orb orb-cyan"></div>
+        <div class="aurora-orb orb-magenta"></div>
+        <div class="aurora-orb orb-amber"></div>
+    </div>
+
+    <!-- ═══════════════════════════════════════════════════════════════
+         LEFT SIDEBAR (ChatGPT / Gemini style)
+         ═══════════════════════════════════════════════════════════════ -->
+    <aside id="sidebar" class="sidebar">
+        <!-- Sidebar Header: Brand & New Chat -->
+        <div class="sidebar-header">
+            <div class="brand">
+                <div class="brand-spark">
+                    <span class="spark-icon">🎓</span>
+                </div>
+                <div class="brand-text">
+                    <h2>JKBOSE AI</h2>
+                    <span class="brand-tag">Student Exam Copilot</span>
+                </div>
+            </div>
+            <button id="btnNewChat" class="btn-new-chat" title="Start a fresh chat (Ctrl + K)">
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2">
+                    <line x1="12" y1="5" x2="12" y2="19"></line>
+                    <line x1="5" y1="12" x2="19" y2="12"></line>
+                </svg>
+                <span>New Chat</span>
+            </button>
+        </div>
+
+        <!-- Sidebar Scrollable Content -->
+        <div class="sidebar-scrollable">
+            <!-- Section 1: Study Modes (Color-Coded) -->
+            <div class="sidebar-section">
+                <div class="section-title">Study Modes</div>
+                <div class="sidebar-menu" id="sidebarModes">
+                    <button class="sidebar-item item-exam active" data-mode="exam_answer">
+                        <span class="item-icon-wrap icon-blue">📘</span>
+                        <div class="item-info">
+                            <span class="item-name">Model Exam Answer</span>
+                            <span class="item-desc">Step-by-step & marking scheme</span>
+                        </div>
+                    </button>
+                    <button class="sidebar-item item-tutor" data-mode="tutor">
+                        <span class="item-icon-wrap icon-amber">💡</span>
+                        <div class="item-info">
+                            <span class="item-name">Concept Tutor</span>
+                            <span class="item-desc">Intuitive breakdown & analogies</span>
+                        </div>
+                    </button>
+                    <button class="sidebar-item item-trends" data-mode="trends">
+                        <span class="item-icon-wrap icon-purple">📊</span>
+                        <div class="item-info">
+                            <span class="item-name">Past Repeats & Trends</span>
+                            <span class="item-desc">Frequency analysis (2012–2024)</span>
+                        </div>
+                    </button>
+                    <button class="sidebar-item item-quiz" data-mode="quiz">
+                        <span class="item-icon-wrap icon-emerald">🎯</span>
+                        <div class="item-info">
+                            <span class="item-name">Practice Quiz</span>
+                            <span class="item-desc">Solve real past exam questions</span>
+                        </div>
+                    </button>
+                </div>
+            </div>
+
+            <!-- Section 2: Syllabus Scope Filter -->
+            <div class="sidebar-section">
+                <div class="section-title">Syllabus Scope</div>
+                <div class="sidebar-filter-box">
+                    <div class="select-row">
+                        <label class="filter-label"><span class="dot-class">●</span> Class:</label>
+                        <select id="chatClass" class="sidebar-select">
+                            <option value="">All Classes</option>
+                            <option value="10">Class 10</option>
+                            <option value="11">Class 11</option>
+                            <option value="12">Class 12</option>
+                        </select>
+                    </div>
+                    <div class="select-row">
+                        <label class="filter-label"><span class="dot-subject">●</span> Subject:</label>
+                        <select id="chatSubject" class="sidebar-select">
+                            <option value="">All Subjects</option>
+                            <option value="Physics">Physics</option>
+                            <option value="Chemistry">Chemistry</option>
+                            <option value="Biology">Biology</option>
+                            <option value="Mathematics">Mathematics</option>
+                            <option value="Science">Science</option>
+                            <option value="Environmental Science">Env. Science</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Section 3: AI Engine -->
+            <div class="sidebar-section">
+                <div class="section-title">AI Engine</div>
+                <div class="engine-pills">
+                    <button id="btnEngineFast" class="engine-pill active" title="Instant (<500ms) curriculum solver">
+                        <span class="icon-bolt">⚡</span>
+                        <span>Fast Engine (&lt;0.5s)</span>
+                    </button>
+                    <button id="btnEngineOllama" class="engine-pill" title="Local Ollama LLM">
+                        <span class="icon-robot">🤖</span>
+                        <span>Ollama AI</span>
+                    </button>
+                </div>
+                <div id="ollamaBadge" class="sidebar-status-pill">
+                    <span class="status-dot"></span>
+                    <span id="ollamaText">Checking Ollama...</span>
+                </div>
+            </div>
+
+            <!-- Section 4: Chat History / Recent Topics -->
+            <div class="sidebar-section">
+                <div class="section-title flex-between">
+                    <span>Recent Questions</span>
+                    <button id="btnClearHistory" class="btn-text-subtle" title="Clear all recent chats">Clear</button>
+                </div>
+                <div id="historyList" class="history-list">
+                    <div class="history-empty">No recent questions yet</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Sidebar Footer -->
+        <div class="sidebar-footer">
+            <button id="btnSwitchToExplorer" class="footer-btn">
+                <span class="footer-icon">🔍</span>
+                <span>Paper Explorer Database</span>
+            </button>
+            <button id="btnStats" class="footer-btn">
+                <span class="footer-icon">📊</span>
+                <span>Dataset Statistics</span>
+            </button>
+        </div>
+    </aside>
+
+    <!-- Sidebar Overlay for mobile -->
+    <div id="sidebarOverlay" class="sidebar-overlay"></div>
+
+    <!-- ═══════════════════════════════════════════════════════════════
+         MAIN WORKSPACE (ChatGPT / Gemini style center layout)
+         ═══════════════════════════════════════════════════════════════ -->
+    <main class="main-workspace">
+
+        <!-- Top Minimal App Bar -->
+        <header class="top-bar">
+            <div class="top-bar-left">
+                <button id="btnToggleSidebar" class="btn-sidebar-toggle" title="Toggle Sidebar">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <line x1="3" y1="12" x2="21" y2="12"></line>
+                        <line x1="3" y1="6" x2="21" y2="6"></line>
+                        <line x1="3" y1="18" x2="21" y2="18"></line>
+                    </svg>
+                </button>
+                <div class="top-title-badge">
+                    <span id="currentModeBadge" class="mode-tag badge-exam">📘 Model Exam Answer</span>
+                    <span id="currentEngineBadge" class="engine-tag">⚡ Fast Solver</span>
+                </div>
+            </div>
+
+            <div class="top-bar-right">
+                <button id="btnViewToggle" class="btn-subtle" title="Switch between Chat and Explorer">
+                    <span id="viewToggleText">🔍 Paper Explorer</span>
+                </button>
+                <button id="btnResetSession" class="btn-subtle btn-clear-session" title="Clear current session">
+                    <span>Clear Chat</span>
+                </button>
+            </div>
+        </header>
+
+        <!-- ─── CHAT VIEW ─────────────────────────────────────────── -->
+        <section id="chatViewArea" class="chat-view-area">
+            <div class="chat-scroll-container" id="chatScrollContainer">
+                <div class="chat-content-column">
+
+                    <!-- Welcome Hero State (Empty State) -->
+                    <div id="chatHero" class="chat-hero">
+                        <div class="hero-badge-pill">
+                            <span>Jammu & Kashmir Board Exam Assistant</span>
+                        </div>
+
+                        <h1 class="hero-title">
+                            What would you like to <span class="gradient-word">master today?</span>
+                        </h1>
+                        <p class="hero-subtitle">
+                            Trained on <strong>515 question papers</strong> and <strong>9,573 questions</strong> from Class 10, 11, and 12. Get instant model answers with complete marking schemes.
+                        </p>
+
+                        <!-- Quick Subject Color Chips -->
+                        <div class="subject-chips-bar">
+                            <span class="subject-chip chip-physics" data-subject="Physics">
+                                <span class="chip-dot"></span> ⚛️ Physics
+                            </span>
+                            <span class="subject-chip chip-chemistry" data-subject="Chemistry">
+                                <span class="chip-dot"></span> 🧪 Chemistry
+                            </span>
+                            <span class="subject-chip chip-biology" data-subject="Biology">
+                                <span class="chip-dot"></span> 🧬 Biology
+                            </span>
+                            <span class="subject-chip chip-math" data-subject="Mathematics">
+                                <span class="chip-dot"></span> 📐 Mathematics
+                            </span>
+                            <span class="subject-chip chip-science" data-subject="Science">
+                                <span class="chip-dot"></span> 🔬 Science
+                            </span>
+                        </div>
+
+                        <!-- 4 Multi-Color Suggestion Cards (2x2 Grid) -->
+                        <div class="hero-grid">
+                            <button class="hero-card card-physics" data-prompt="State Ohm's Law and express it in mathematical form">
+                                <div class="card-icon-box box-cyan">⚡</div>
+                                <div class="card-body">
+                                    <div class="card-header-row">
+                                        <strong>State Ohm's Law</strong>
+                                        <span class="card-badge badge-cyan">Physics</span>
+                                    </div>
+                                    <span>Formula, V-I graph, units & 1-Ohm definition</span>
+                                </div>
+                            </button>
+
+                            <button class="hero-card card-math" data-prompt="State and explain Gauss's law with mathematical derivation">
+                                <div class="card-icon-box box-purple">📐</div>
+                                <div class="card-body">
+                                    <div class="card-header-row">
+                                        <strong>Gauss's Law Derivation</strong>
+                                        <span class="card-badge badge-purple">5 Marks</span>
+                                    </div>
+                                    <span>Electric flux formula, surface integral & steps</span>
+                                </div>
+                            </button>
+
+                            <button class="hero-card card-chemistry" data-prompt="What questions repeat most frequently in Class 12 Chemistry?">
+                                <div class="card-icon-box box-emerald">🧪</div>
+                                <div class="card-body">
+                                    <div class="card-header-row">
+                                        <strong>Chemistry Repeats</strong>
+                                        <span class="card-badge badge-emerald">High-Yield</span>
+                                    </div>
+                                    <span>Most frequent questions from 2012–2024 papers</span>
+                                </div>
+                            </button>
+
+                            <button class="hero-card card-biology" data-prompt="Differentiate between Mitosis and Meiosis">
+                                <div class="card-icon-box box-rose">🧬</div>
+                                <div class="card-body">
+                                    <div class="card-header-row">
+                                        <strong>Mitosis vs Meiosis</strong>
+                                        <span class="card-badge badge-rose">Biology</span>
+                                    </div>
+                                    <span>Complete comparison table ready for evaluation</span>
+                                </div>
+                            </button>
+                        </div>
+                    </div>
+
+                    <!-- Live Message Stream -->
+                    <div id="messageStream" class="message-stream"></div>
+
+                    <!-- Modern Multi-Color Typing Indicator -->
+                    <div id="chatTyping" class="chat-typing" style="display:none;">
+                        <div class="avatar-bot glowing-spark">🎓</div>
+                        <div class="typing-pill">
+                            <span class="typing-dot dot-1"></span>
+                            <span class="typing-dot dot-2"></span>
+                            <span class="typing-dot dot-3"></span>
+                            <span class="typing-msg">Analyzing 9,573 JKBOSE questions & crafting solution...</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Floating ChatGPT / Gemini Style Bottom Input Bar -->
+            <div class="floating-input-container">
+                <div class="input-card">
+                    <textarea id="chatInput" placeholder="Ask any JKBOSE exam question or concept (e.g. 'Coulomb's Law 5-mark answer' or 'Quiz me on Class 10 Science')..." rows="1" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false"></textarea>
+                    
+                    <div class="input-actions">
+                        <button id="btnVoice" class="btn-icon-round" title="Voice Input (Speech-to-Text)">
+                            <svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <path d="M12 1a3 3 0 0 0-3 3v8a3 3 0 0 0 6 0V4a3 3 0 0 0-3-3z"></path>
+                                <path d="M19 10v2a7 7 0 0 1-14 0v-2"></path>
+                                <line x1="12" y1="19" x2="12" y2="23"></line>
+                                <line x1="8" y1="23" x2="16" y2="23"></line>
+                            </svg>
+                        </button>
+                        <button id="btnSend" class="btn-send-round" title="Send message (Enter)">
+                            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+                                <line x1="12" y1="19" x2="12" y2="5"></line>
+                                <polyline points="5 12 12 5 19 12"></polyline>
+                            </svg>
+                        </button>
+                    </div>
+                </div>
+                <div class="input-disclaimer">
+                    <span>Grounded in official JKBOSE question papers • Class 10, 11 & 12 • Verify with textbook</span>
+                </div>
+            </div>
+        </section>
+
+        <!-- ─── PAPER EXPLORER VIEW (RAW SEARCH) ──────────────────── -->
+        <section id="explorerViewArea" class="explorer-view-area" style="display:none;">
+            <div class="explorer-container">
+                <div class="explorer-header">
+                    <h2>🔍 JKBOSE Question Paper Database</h2>
+                    <p>Search raw question papers across Class 10, 11, and 12</p>
+                </div>
+
+                <!-- Explorer Filter Bar -->
+                <div class="explorer-filters">
+                    <select id="filterClass">
+                        <option value="">All Classes</option>
+                        <option value="10">Class 10</option>
+                        <option value="11">Class 11</option>
+                        <option value="12">Class 12</option>
+                    </select>
+                    <select id="filterSubject">
+                        <option value="">All Subjects</option>
+                        <option value="Physics">Physics</option>
+                        <option value="Chemistry">Chemistry</option>
+                        <option value="Biology">Biology</option>
+                        <option value="Mathematics">Mathematics</option>
+                        <option value="Science">Science</option>
+                        <option value="Environmental Science">Env. Science</option>
+                    </select>
+                    <input type="text" id="filterYear" placeholder="Year (e.g. 2024)" maxlength="4" autocomplete="off">
+                    <select id="filterMarks">
+                        <option value="">Any Marks</option>
+                        <option value="1">1 Mark</option>
+                        <option value="2">2 Marks</option>
+                        <option value="3">3 Marks</option>
+                        <option value="4">4 Marks</option>
+                        <option value="5">5 Marks</option>
+                    </select>
+                </div>
+
+                <!-- Explorer Search Box -->
+                <div class="explorer-search-box">
+                    <input type="text" id="searchInput" placeholder='Search question papers (e.g. "Gauss law 5 marks" or "repeated physics")' autocomplete="off">
+                    <button id="btnSearch" class="btn-primary">Search Database</button>
+                </div>
+
+                <!-- Explorer Results Content -->
+                <div id="explorerResults" class="explorer-results">
+                    <div id="explorerEmpty" class="explorer-empty">
+                        <p>Type a query or select filters above to browse questions.</p>
+                    </div>
+                    <div id="explorerLoading" class="explorer-loading" style="display:none;">
+                        <div class="spinner"></div>
+                        <p>Querying dataset...</p>
+                    </div>
+                    <div id="explorerContent" style="display:none;"></div>
+                </div>
+            </div>
+        </section>
+
+    </main>
+
+    <!-- Stats Modal -->
+    <div id="statsModal" class="modal" style="display:none;">
+        <div class="modal-overlay"></div>
+        <div class="modal-card">
+            <div class="modal-header">
+                <h3>📊 JKBOSE Dataset Statistics</h3>
+                <button id="btnCloseStats" class="modal-close">&times;</button>
+            </div>
+            <div id="statsBody" class="modal-body">
+                <div class="spinner"></div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Floating Toast Notification -->
+    <div id="toast" class="toast-popup"></div>
+
+    <script src="app.js"></script>
+</body>
+</html>
