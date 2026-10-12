@@ -1,0 +1,118 @@
+================================================================================
+JAMMU AND KASHMIR STATE BOARD OF SCHOOL EDUCATION (JKBOSE)
+HIGHER SECONDARY EXAMINATION PART-II (CLASS 12TH) - OFFICIAL QUESTION PAPER
+================================================================================
+EXAM PAPER TITLE : JK-BOSE-CLASS-12-MATHEMATICS-6603-P-2015
+SUBJECT          : MATHEMATICS (CLASS 12TH)
+CLASS / LEVEL    : Class 12TH
+EXAMINATION YEAR : 2015
+SERIES / SET     : SET P
+QUESTION CODE    : 6603
+MAXIMUM MARKS    : 80 MARKS
+TIME ALLOWED     : 3 HOURS
+================================================================================
+
+GENERAL INSTRUCTIONS:
+--------------------------------------------------------------------------------
+  (1) All questions are compulsory.
+  (2) Section A: 1 mark each.
+  (3) Section B: 2 marks each.
+  (4) Section C: 4 marks each.
+  (5) Section D: 6 marks each with internal choice.
+--------------------------------------------------------------------------------
+
+================================================================================
+SECTION A : OBJECTIVE & MULTIPLE CHOICE QUESTIONS
+[Q. 01 to Q. 04 [4 Marks]]
+================================================================================
+
+Q.01 [1 Mark] (Relations and Functions):
+     Let R be the relation on set N defined by R = {(a, b) : a = b - 2, b > 6}. Which of the following ordered pairs belongs to R?
+
+     (A) (2, 4)
+     (B) (3, 8)
+     (C) (6, 8)
+     (D) (8, 7)
+
+Q.02 [1 Mark] (Matrices & Determinants):
+     If A is a square matrix of order 3 × 3 and |A| = 5, then the value of |adj(A)| is:
+
+     (A) 5
+     (B) 25
+     (C) 125
+     (D) 1/5
+
+Q.03 [1 Mark] (Calculus - Differentiation):
+     The derivative of sin⁻¹(2x√(1 - x²)) with respect to sin⁻¹(x) is:
+
+     (A) 1
+     (B) 2
+     (C) 1/2
+     (D) 2/√(1 - x²)
+
+Q.04 [1 Mark] (Vector Algebra):
+     The projection of the vector a = 2i + 3j + 2k on the vector b = i + 2j + k is:
+
+     (A) 10/√6
+     (B) 5/√6
+     (C) 10/√17
+     (D) 6/√10
+
+================================================================================
+SECTION B : SHORT ANSWER QUESTIONS - I
+[Q. 05 to Q. 07 [6 Marks]]
+================================================================================
+
+Q.05 [2 Marks] (Inverse Trigonometric Functions):
+     Find the principal value of tan⁻¹(√3) - sec⁻¹(-2).
+
+Q.06 [2 Marks] (Continuity):
+     Find the value of 'k' so that the function f(x) = { kx + 1 if x ≤ 5; 3x - 5 if x > 5 } is continuous at x = 5.
+
+Q.07 [2 Marks] (Differential Equations):
+     Find the order and degree of the differential equation: (d²y/dx²)³ + (dy/dx)² + sin(dy/dx) + 1 = 0.
+
+================================================================================
+SECTION C : SHORT ANSWER QUESTIONS - II
+[Q. 08 to Q. 10 [12 Marks]]
+================================================================================
+
+Q.08 [4 Marks] (Integrals - Definite Integrals):
+     Evaluate the definite integral using properties of definite integrals:
+     ∫₀^(π/2) [√sin(x) / (√sin(x) + √cos(x))] dx.
+
+Q.09 [4 Marks] (Application of Integrals):
+     Find the area of the region bounded by the ellipse x²/16 + y²/9 = 1 using the method of integration.
+
+Q.10 [4 Marks] (Three Dimensional Geometry):
+     Find the shortest distance between the two skew lines whose vector equations are:
+     r = (i + 2j + k) + λ(i - j + k) and
+     r = (2i - j - k) + μ(2i + j + 2k).
+
+================================================================================
+SECTION D : LONG ANSWER QUESTIONS (CHOICE)
+[Q. 11 [6 Marks]]
+================================================================================
+
+Q.11 [6 Marks] (Matrices / Linear Equations):
+     Solve the following system of linear equations using Matrix Inversion method (A⁻¹):
+     2x + 3y + 3z = 5
+     x - 2y + z = -4
+     3x - y - 2z = 3.
+
+     ----------------------------------------------------------------------
+     OR
+     (a) An insurance company insured 2000 scooter drivers, 4000 car drivers, and 6000 truck drivers.
+     The probability of an accident is 0.01, 0.03, and 0.15 respectively.
+     One of the insured persons meets with an accident. What is the probability that he is a scooter driver? (Apply Bayes' Theorem).
+     (b) Solve the Linear Programming Problem (LPP) graphically:
+     Maximize Z = 4x + y
+     Subject to constraints:
+     x + y ≤ 50
+     3x + y ≤ 90
+     x ≥ 0, y ≥ 0.
+
+================================================================================
+[END OF QUESTION PAPER - JK-BOSE-CLASS-12-MATHEMATICS-6603-P-2015]
+Official Source Archive: https://www.jkboseonline.com/jk-bose-class-12.html
+================================================================================

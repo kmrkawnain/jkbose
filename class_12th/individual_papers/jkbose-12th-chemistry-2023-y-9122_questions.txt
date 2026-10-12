@@ -1,0 +1,133 @@
+================================================================================
+JAMMU AND KASHMIR STATE BOARD OF SCHOOL EDUCATION (JKBOSE)
+HIGHER SECONDARY EXAMINATION PART-II (CLASS 12TH) - OFFICIAL QUESTION PAPER
+================================================================================
+EXAM PAPER TITLE : JK-BOSE-CLASS-12-CHEMISTRY-9122-Y-2023
+SUBJECT          : CHEMISTRY (CLASS 12TH)
+CLASS / LEVEL    : Class 12TH
+EXAMINATION YEAR : 2023
+SERIES / SET     : SET Y
+QUESTION CODE    : 9122
+MAXIMUM MARKS    : 70 MARKS
+TIME ALLOWED     : 3 HOURS
+================================================================================
+
+GENERAL INSTRUCTIONS:
+--------------------------------------------------------------------------------
+  (1) All questions are compulsory. There are 14 questions in this paper.
+  (2) Section A comprises Q. 1 to Q. 6 of 1 mark each.
+  (3) Section B comprises Q. 7 to Q. 9 of 2 marks each.
+  (4) Section C comprises Q. 10 to Q. 12 of 3 marks each.
+  (5) Section D comprises Q. 13 to Q. 14 of 5 marks each with internal choice.
+  (6) Calculators are not permitted. Log tables can be used.
+--------------------------------------------------------------------------------
+
+================================================================================
+SECTION A : OBJECTIVE & VERY SHORT ANSWER
+[Q. 01 to Q. 06 [6 Marks]]
+================================================================================
+
+Q.01 [1 Mark] (Solutions - Colligative Properties):
+     Which of the following aqueous solutions will exhibit the highest boiling point elevation?
+
+     (A) 0.1 M Glucose
+     (B) 0.1 M NaCl
+     (C) 0.1 M BaCl₂
+     (D) 0.1 M Urea
+
+Q.02 [1 Mark] (Electrochemistry):
+     The unit of molar conductivity (Λₘ) is:
+
+     (A) S cm² mol⁻¹
+     (B) S cm⁻¹ mol⁻¹
+     (C) S⁻¹ cm² mol
+     (D) Ω cm mol⁻¹
+
+Q.03 [1 Mark] (Chemical Kinetics):
+     For a first order reaction, the time required for 99.9% completion is how many times the half-life period (t₁/₂)?
+
+     (A) 2 times
+     (B) 5 times
+     (C) 10 times
+     (D) 100 times
+
+Q.04 [1 Mark] (Coordination Compounds):
+     The IUPAC name of the complex compound [Co(NH₃)₅Cl]Cl₂ is:
+
+     (A) Pentaamminechlorocobalt(III) chloride
+     (B) Pentaamminechlorocobalt(II) chloride
+     (C) Chloropentaamminecobalt(III) dichloride
+     (D) Cobalt(III) pentaamminechloride
+
+Q.05 [1 Mark] (d- and f-Block Elements):
+     What is Lanthanoid Contraction and what is its main chemical consequence on 4d and 5d transition elements?
+
+Q.06 [1 Mark] (Biomolecules):
+     What is the primary difference between DNA and RNA with respect to their sugar moiety and pyrimidine bases?
+
+================================================================================
+SECTION B : SHORT ANSWER TYPE - I
+[Q. 07 to Q. 09 [6 Marks]]
+================================================================================
+
+Q.07 [2 Marks] (Electrochemistry - Kohlrausch Law):
+     State Kohlrausch's Law of Independent Migration of Ions and write its application in determining the limiting molar conductivity of weak electrolytes.
+
+Q.08 [2 Marks] (Haloalkanes & Haloarenes):
+     Explain why haloarenes are extremely less reactive towards Nucleophilic Substitution Reactions as compared to haloalkanes.
+
+Q.09 [2 Marks] (Amines):
+     How will you distinguish between primary, secondary, and tertiary aliphatic amines using the Hinsberg Test (Benzenesulfonyl chloride)?
+
+================================================================================
+SECTION C : SHORT ANSWER TYPE - II
+[Q. 10 to Q. 12 [9 Marks]]
+================================================================================
+
+Q.10 [3 Marks] (Solutions - Nernst Equation):
+     Calculate the EMF of the following Galvanic cell at 298 K:
+     Mg(s) | Mg²⁺(0.001 M) || Cu²⁺(0.0001 M) | Cu(s)
+     Given: E°(Mg²⁺/Mg) = -2.37 V, E°(Cu²⁺/Cu) = +0.34 V, [R = 8.314 J/K·mol, F = 96500 C/mol].
+
+Q.11 [3 Marks] (Coordination Chemistry):
+     On the basis of Crystal Field Theory (CFT), explain why [CoF₆]³⁻ is a paramagnetic high-spin complex whereas [Co(CN)₆]³⁻ is a diamagnetic low-spin complex.
+
+Q.12 [3 Marks] (Organic Named Reactions):
+     Write chemical equations illustrating the following named reactions:
+     (a) Reimer-Tiemann Reaction
+     (b) Williamson Ether Synthesis
+     (c) Cannizzaro Reaction
+
+================================================================================
+SECTION D : LONG ANSWER QUESTIONS (CHOICE)
+[Q. 13 to Q. 14 [10 Marks]]
+================================================================================
+
+Q.13 [5 Marks] (Aldehydes, Ketones & Carboxylic Acids):
+     (a) How will you convert:
+         (i) Ethanal to But-2-enal (Aldol Condensation)
+         (ii) Benzoic acid to m-Nitrobenzoic acid
+         (iii) Propanone to Propene
+     (b) Give a simple chemical test to distinguish between:
+         (i) Acetaldehyde and Benzaldehyde (Tollens' vs Fehling's)
+         (ii) Pentan-2-one and Pentan-3-one (Iodoform test)
+
+     ----------------------------------------------------------------------
+     OR
+     (a) Explain the mechanism of Nucleophilic Addition reaction of HCN to an Aldehyde/Ketone.
+     (b) Why are carboxylic acids more acidic than phenols?
+     (c) What is Hell-Volhard-Zelinsky (HVZ) reaction? Give a chemical equation.
+
+Q.14 [5 Marks] (Chemical Kinetics & Solutions):
+     (a) Define rate constant (k). Derive the integrated rate equation for a first-order reaction and write the expression for its half-life.
+     (b) The rate constant of a first-order reaction doubles when the temperature increases from 300 K to 310 K. Calculate the activation energy (Eₐ) of the reaction. [R = 8.314 J/K·mol].
+
+     ----------------------------------------------------------------------
+     OR
+     (a) State Raoult's Law for a solution containing non-volatile solute. Derive the relationship between relative lowering of vapour pressure and molar mass of solute.
+     (b) Define osmotic pressure. Why is the osmotic pressure method considered superior to other colligative property methods for determining the molecular mass of polymers and proteins?
+
+================================================================================
+[END OF QUESTION PAPER - JK-BOSE-CLASS-12-CHEMISTRY-9122-Y-2023]
+Official Source Archive: https://www.jkboseonline.com/jk-bose-class-12.html
+================================================================================
