@@ -1,0 +1,108 @@
+================================================================================
+JAMMU AND KASHMIR STATE BOARD OF SCHOOL EDUCATION (JKBOSE)
+HIGHER SECONDARY EXAMINATION PART-I (CLASS 11TH) - OFFICIAL QUESTION PAPER
+================================================================================
+EXAM PAPER TITLE : JK-BOSE-CLASS-11-MATHEMATICS-1407-C-2024
+SUBJECT          : MATHEMATICS (CLASS 11TH)
+CLASS / LEVEL    : Class 11TH
+EXAMINATION YEAR : 2024
+SERIES / SET     : SET C
+QUESTION CODE    : 1407
+MAXIMUM MARKS    : 80 MARKS
+TIME ALLOWED     : 3 HOURS
+================================================================================
+
+GENERAL INSTRUCTIONS:
+--------------------------------------------------------------------------------
+  (1) All questions are compulsory.
+  (2) Section A: 1 mark each.
+  (3) Section B: 2 marks each.
+  (4) Section C: 4 marks each.
+  (5) Section D: 6 marks each with internal choice.
+--------------------------------------------------------------------------------
+
+================================================================================
+SECTION A : OBJECTIVE TYPE & MCQS
+[Q. 01 to Q. 04 [4 Marks]]
+================================================================================
+
+Q.01 [1 Mark] (Sets):
+     If a set A contains n elements, then the total number of non-empty proper subsets of A is:
+
+     (A) 2ⁿ
+     (B) 2ⁿ - 1
+     (C) 2ⁿ - 2
+     (D) 2ⁿ⁻¹
+
+Q.02 [1 Mark] (Complex Numbers):
+     The modulus and principal argument of the complex number z = -1 - i√3 are:
+
+     (A) |z| = 2, arg(z) = -2π/3
+     (B) |z| = 2, arg(z) = 2π/3
+     (C) |z| = 4, arg(z) = -π/3
+     (D) |z| = 1, arg(z) = 4π/3
+
+Q.03 [1 Mark] (Trigonometric Functions):
+     Find the value of cos(75°) using the compound angle identity cos(A + B):
+
+     (A) (√6 - √2)/4
+     (B) (√6 + √2)/4
+     (C) (√3 - 1)/2√2
+     (D) Both (A) and (C)
+
+Q.04 [1 Mark] (Permutations & Combinations):
+     If ⁿC₈ = ⁿC₂, find the numerical value of ⁿC₂:
+
+     (A) 45
+     (B) 90
+     (C) 10
+     (D) 120
+
+================================================================================
+SECTION B : SHORT ANSWER TYPE - I
+[Q. 05 to Q. 07 [6 Marks]]
+================================================================================
+
+Q.05 [2 Marks] (Linear Inequalities):
+     Solve the linear inequality algebraically for real x: (2x - 1)/3 ≥ (3x - 2)/4 - (2 - x)/5.
+
+Q.06 [2 Marks] (Binomial Theorem):
+     Find the coefficient of x⁵ in the algebraic expansion of (x + 3)⁸ using the general term formula.
+
+Q.07 [2 Marks] (Straight Lines):
+     Find the perpendicular distance from the point P(2, 3) to the straight line 3x + 4y - 8 = 0.
+
+================================================================================
+SECTION C : SHORT ANSWER TYPE - II
+[Q. 08 to Q. 10 [12 Marks]]
+================================================================================
+
+Q.08 [4 Marks] (Sequences and Series):
+     In an Arithmetic Progression (AP), the first term is a = 6 and common difference d = 2. If the sum of first n terms is Sₙ = 116, find the value of n and the nth term.
+
+Q.09 [4 Marks] (Conic Sections - Ellipse):
+     Find the coordinates of the foci, the vertices, the length of major axis, minor axis, eccentricity, and the length of the latus rectum of the ellipse: x²/25 + y²/9 = 1.
+
+Q.10 [4 Marks] (Limits & Derivatives):
+     Find the derivative of f(x) = sin(x) from first principles (ab initio method) using the definition of derivative.
+
+================================================================================
+SECTION D : LONG ANSWER QUESTIONS (CHOICE)
+[Q. 11 [6 Marks]]
+================================================================================
+
+Q.11 [6 Marks] (Trigonometry):
+     Prove the following trigonometric identity for any acute angle:
+     cos(2x)cos(x/2) - cos(3x)cos(9x/2) = sin(5x)sin(5x/2).
+     Hence find the general solution of the equation sin(2x) - sin(4x) + sin(6x) = 0.
+
+     ----------------------------------------------------------------------
+     OR
+     Calculate the mean, variance, and standard deviation for the following frequency distribution:
+     Classes: 0-10, 10-20, 20-30, 30-40, 40-50
+     Frequencies: 5, 8, 15, 16, 6.
+
+================================================================================
+[END OF QUESTION PAPER - JK-BOSE-CLASS-11-MATHEMATICS-1407-C-2024]
+Official Source Archive: https://www.jkboseonline.com/jk-bose-class-11.html
+================================================================================

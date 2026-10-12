@@ -1,0 +1,140 @@
+================================================================================
+JAMMU AND KASHMIR STATE BOARD OF SCHOOL EDUCATION (JKBOSE)
+HIGHER SECONDARY EXAMINATION PART-I (CLASS 11TH) - OFFICIAL QUESTION PAPER
+================================================================================
+EXAM PAPER TITLE : JK-BOSE-CLASS-11-CHEMISTRY-5702-X-2021
+SUBJECT          : CHEMISTRY (CLASS 11TH)
+CLASS / LEVEL    : Class 11TH
+EXAMINATION YEAR : 2021
+SERIES / SET     : SET X
+QUESTION CODE    : 5702
+MAXIMUM MARKS    : 70 MARKS
+TIME ALLOWED     : 3 HOURS
+================================================================================
+
+GENERAL INSTRUCTIONS:
+--------------------------------------------------------------------------------
+  (1) All questions are compulsory. There are 18 questions in this paper.
+  (2) Section A contains Q. 1 to Q. 8 carrying 1 mark each.
+  (3) Section B contains Q. 9 to Q. 12 carrying 2 marks each.
+  (4) Section C contains Q. 13 to Q. 16 carrying 3 marks each.
+  (5) Section D contains Q. 17 to Q. 18 carrying 5 marks each with internal choice.
+  (6) Use of log tables is permitted. Calculators are not allowed.
+--------------------------------------------------------------------------------
+
+================================================================================
+SECTION A : OBJECTIVE & VERY SHORT ANSWER
+[Q. 01 to Q. 08 [8 Marks]]
+================================================================================
+
+Q.01 [1 Mark] (Basic Concepts of Chemistry):
+     What is the total number of moles present in 44 grams of Carbon Dioxide (CO₂)? (Atomic masses: C = 12, O = 16)
+
+     (A) 0.5 mole
+     (B) 1.0 mole
+     (C) 2.0 moles
+     (D) 44 moles
+
+Q.02 [1 Mark] (Structure of Atom):
+     Which quantum number specifies the spatial orientation of an orbital in a given subshell?
+
+     (A) Principal quantum number (n)
+     (B) Azimuthal quantum number (l)
+     (C) Magnetic quantum number (mₗ)
+     (D) Spin quantum number (mₛ)
+
+Q.03 [1 Mark] (Chemical Bonding):
+     What is the hybridization and geometrical shape of the Methane (CH₄) molecule?
+
+     (A) sp² - Trigonal Planar
+     (B) sp³ - Regular Tetrahedral
+     (C) sp³d - Trigonal Bipyramidal
+     (D) sp - Linear
+
+Q.04 [1 Mark] (Thermodynamics):
+     For an isolated system, the change in internal energy (ΔU) is always equal to:
+
+     (A) q
+     (B) w
+     (C) 0
+     (D) ΔH
+
+Q.05 [1 Mark] (Equilibrium):
+     State Le Chatelier’s Principle regarding the effect of temperature and pressure on chemical equilibrium.
+
+Q.06 [1 Mark] (Redox Reactions):
+     Calculate the oxidation state of Manganese (Mn) in the Potassium Permanganate compound KMnO₄.
+
+Q.07 [1 Mark] (Organic Chemistry - IUPAC):
+     Write the IUPAC name of the compound: CH₃-CH(CH₃)-CH₂-CHO.
+
+Q.08 [1 Mark] (Hydrocarbons):
+     State Markovnikov’s rule for the addition of unsymmetrical reagents to unsymmetrical alkenes.
+
+================================================================================
+SECTION B : SHORT ANSWER QUESTIONS - I
+[Q. 09 to Q. 12 [8 Marks]]
+================================================================================
+
+Q.09 [2 Marks] (Atomic Structure - de Broglie & Heisenberg):
+     State Heisenberg’s Uncertainty Principle. Calculate the uncertainty in position of an electron moving with a velocity of 300 m/s with 0.001% accuracy.
+
+Q.10 [2 Marks] (Periodic Properties):
+     Explain why the first ionization enthalpy of Nitrogen (N) is higher than that of Oxygen (O), despite Oxygen having a higher nuclear charge.
+
+Q.11 [2 Marks] (Chemical Equilibrium - Buffer Solutions):
+     What is a buffer solution? Give an example each of an acidic buffer and a basic buffer.
+
+Q.12 [2 Marks] (Organic Reaction Mechanisms):
+     Explain the difference between Inductive Effect (+I / -I) and Electromeric Effect (+E / -E) with suitable examples.
+
+================================================================================
+SECTION C : SHORT ANSWER QUESTIONS - II
+[Q. 13 to Q. 16 [12 Marks]]
+================================================================================
+
+Q.13 [3 Marks] (Chemical Thermodynamics):
+     State Hess's Law of Constant Heat Summation. Explain its thermodynamic significance with an illustrative thermochemical cycle.
+
+Q.14 [3 Marks] (Molecular Orbital Theory):
+     Draw the Molecular Orbital (MO) energy level diagram for the Oxygen molecule (O₂). Calculate its bond order and explain its paramagnetic behavior.
+
+Q.15 [3 Marks] (Aromatic Hydrocarbons - Benzene):
+     Explain the mechanism of Electrophilic Substitution in benzene with special reference to the Nitration of benzene.
+
+Q.16 [3 Marks] (Redox Balancing):
+     Balance the following redox reaction in acidic medium using the ion-electron method:
+     Cr₂O₇²⁻(aq) + Fe²⁺(aq) → Cr³⁺(aq) + Fe³⁺(aq)
+
+================================================================================
+SECTION D : LONG ANSWER QUESTIONS (INTERNAL CHOICE)
+[Q. 17 to Q. 18 [10 Marks]]
+================================================================================
+
+Q.17 [5 Marks] (Chemical Bonding & Hybridization):
+     (a) What are the main postulates of VSEPR Theory?
+     (b) Predict the shapes of PCl₅ and SF₆ molecules on the basis of hybridization.
+     (c) Explain why the axial bonds in PCl₅ are longer and weaker than equatorial bonds.
+
+     ----------------------------------------------------------------------
+     OR
+     (a) Define standard enthalpy of formation (ΔfH°) and standard enthalpy of combustion (ΔcH°).
+     (b) Derive the relationship: ΔG = ΔH - TΔS. Discuss the criterion of spontaneity of a chemical reaction in terms of ΔG at constant temperature and pressure.
+
+Q.18 [5 Marks] (Hydrocarbons & Isomerism):
+     (a) Explain the free radical mechanism of chlorination of methane with initiation, propagation, and termination steps.
+     (b) Write the structural formulas and names of all chain and position isomers of Pentane (C₅H₁₂).
+     (c) What is Wurtz reaction? Give a chemical equation.
+
+     ----------------------------------------------------------------------
+     OR
+     (a) Explain Huckel's rule of aromaticity with suitable examples.
+     (b) How will you convert:
+         (i) Ethyne into Benzene
+         (ii) Propene into 1-Bromopropane (Anti-Markovnikov addition)
+         (iii) Benzene into Toluene (Friedel-Crafts Alkylation)
+
+================================================================================
+[END OF QUESTION PAPER - JK-BOSE-CLASS-11-CHEMISTRY-5702-X-2021]
+Official Source Archive: https://www.jkboseonline.com/jk-bose-class-11.html
+================================================================================

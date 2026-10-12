@@ -1,0 +1,143 @@
+================================================================================
+JAMMU AND KASHMIR STATE BOARD OF SCHOOL EDUCATION (JKBOSE)
+HIGHER SECONDARY EXAMINATION PART-I (CLASS 11TH) - OFFICIAL QUESTION PAPER
+================================================================================
+EXAM PAPER TITLE : JK-BOSE-CLASS-11-PHYSICS-1208-X-2024
+SUBJECT          : PHYSICS (CLASS 11TH)
+CLASS / LEVEL    : Class 11TH
+EXAMINATION YEAR : 2024
+SERIES / SET     : SET X
+QUESTION CODE    : 1208
+MAXIMUM MARKS    : 70 MARKS
+TIME ALLOWED     : 3 HOURS
+================================================================================
+
+GENERAL INSTRUCTIONS:
+--------------------------------------------------------------------------------
+  (1) All questions are compulsory. There are 19 questions in this question paper.
+  (2) Section A contains Q. 1 to Q. 8 of 1 mark each.
+  (3) Section B contains Q. 9 to Q. 12 of 2 marks each.
+  (4) Section C contains Q. 13 to Q. 17 of 3 marks each.
+  (5) Section D contains Q. 18 to Q. 19 of 5 marks each with internal choice.
+  (6) Use of log tables is permitted if necessary. Use of calculators is strictly prohibited.
+--------------------------------------------------------------------------------
+
+================================================================================
+SECTION A : OBJECTIVE & VERY SHORT ANSWER QUESTIONS
+[Q. 01 to Q. 08 [8 Marks]]
+================================================================================
+
+Q.01 [1 Mark] (Units & Dimensions):
+     Which of the following pairs of physical quantities have the same dimensional formula [M L² T⁻²]?
+
+     (A) Force and Torque
+     (B) Work and Torque
+     (C) Momentum and Impulse
+     (D) Pressure and Surface Tension
+
+Q.02 [1 Mark] (Kinematics - Projectile Motion):
+     A projectile is fired at an angle of 60° with the horizontal with initial velocity 30 m/s. The acceleration at the highest point of its trajectory is:
+
+     (A) 0 m/s²
+     (B) g directed vertically downwards
+     (C) g sin(60°) along the trajectory
+     (D) g cos(60°) along the horizontal
+
+Q.03 [1 Mark] (Laws of Motion - Friction):
+     The limiting friction between two surfaces in contact depends on:
+
+     (A) Apparent area of contact
+     (B) Nature of the surfaces and the normal reaction
+     (C) Relative speed of sliding surfaces
+     (D) Shape of the surfaces
+
+Q.04 [1 Mark] (Work Energy Power):
+     A body of mass 2 kg is attached to a spring of spring constant k = 143 N/m. The potential energy stored when compressed by 0.1 m is:
+
+     (A) 0.71 J
+     (B) 14.30 J
+     (C) 7.15 J
+     (D) 1.43 J
+
+Q.05 [1 Mark] (Rotational Dynamics):
+     State the law of conservation of angular momentum and express the relation between torque (τ) and angular momentum (L).
+
+Q.06 [1 Mark] (Gravitation):
+     What happens to the acceleration due to gravity (g) as we move from the equator towards the poles of the Earth?
+
+Q.07 [1 Mark] (Fluid Mechanics):
+     State Bernoulli’s Theorem for the streamline flow of an ideal incompressible fluid.
+
+Q.08 [1 Mark] (Thermodynamics):
+     Define an adiabatic process and write the equation of state for an ideal gas undergoing an adiabatic change.
+
+================================================================================
+SECTION B : SHORT ANSWER TYPE QUESTIONS - I
+[Q. 09 to Q. 12 [8 Marks]]
+================================================================================
+
+Q.09 [2 Marks] (Kinematics - Vectors):
+     Two vectors A and B have equal magnitudes of 10 units each. If the angle between them is 60°, find the magnitude and direction of their resultant vector.
+
+Q.10 [2 Marks] (Circular Motion):
+     Derive an expression for the optimum banking angle (θ) of a curved road without friction, in terms of speed (v), radius (r), and gravity (g).
+
+Q.11 [2 Marks] (Gravitation - Escape Velocity):
+     Define escape velocity. Write its mathematical formula and explain why the moon has no atmosphere.
+
+Q.12 [2 Marks] (Oscillations - SHM):
+     Show that the motion of a simple pendulum executing small oscillations is simple harmonic (SHM), and write its time period formula.
+
+================================================================================
+SECTION C : SHORT ANSWER TYPE QUESTIONS - II
+[Q. 13 to Q. 17 [15 Marks]]
+================================================================================
+
+Q.13 [3 Marks] (Work Energy Theorem):
+     State and prove the Work-Energy Theorem for a variable force acting on a particle moving in one dimension.
+
+Q.14 [3 Marks] (Rotational Motion - Moment of Inertia):
+     State the Theorem of Parallel Axes and Theorem of Perpendicular Axes for moment of inertia with suitable mathematical equations and diagrams.
+
+Q.15 [3 Marks] (Properties of Matter - Viscosity):
+     State Stokes' Law for the viscous drag on a spherical body falling through a fluid. Hence derive the expression for its terminal velocity.
+
+Q.16 [3 Marks] (Thermodynamics - Heat Engines):
+     Describe the four stages of a Carnot cycle with the help of a neat Indicator (P-V) Diagram. Write the expression for the efficiency of a Carnot engine.
+
+Q.17 [3 Marks] (Waves - Doppler Effect):
+     Explain the Doppler Effect in sound waves. Derive an expression for the apparent frequency when a sound source moves towards a stationary observer.
+
+================================================================================
+SECTION D : LONG ANSWER TYPE QUESTIONS (INTERNAL CHOICE)
+[Q. 18 to Q. 19 [10 Marks]]
+================================================================================
+
+Q.18 [5 Marks] (Projectile Motion & Vectors):
+     A projectile is launched from the ground with an initial velocity 'u' making an angle 'θ' with the horizontal.
+     (a) Derive the equation of its parabolic trajectory.
+     (b) Derive the expressions for (i) Time of flight, (ii) Maximum height attained, and (iii) Horizontal range.
+     (c) At what angle is the horizontal range maximum?
+
+     ----------------------------------------------------------------------
+     OR
+     State Newton's Second Law of Motion and establish the vector relation F = dp/dt = ma.
+     Show that Newton's Second Law is the real law of motion from which both the First and Third Laws can be deduced.
+     A rocket of initial mass 5000 kg ejects exhaust gas at 1000 m/s at a rate of 50 kg/s. Calculate the initial upward thrust.
+
+Q.19 [5 Marks] (Surface Tension & Fluid Mechanics):
+     Explain what is meant by Surface Tension and Surface Energy.
+     Derive an expression for the excess pressure inside:
+     (a) A liquid drop.
+     (b) A soap bubble in air.
+     Explain why small raindrops are spherical while large drops tend to flatten.
+
+     ----------------------------------------------------------------------
+     OR
+     State and prove Bernoulli's Principle for the streamline flow of an ideal fluid.
+     Describe the construction and working principle of a Venturi-meter with a labelled diagram, and derive the formula for the volume flow rate.
+
+================================================================================
+[END OF QUESTION PAPER - JK-BOSE-CLASS-11-PHYSICS-1208-X-2024]
+Official Source Archive: https://www.jkboseonline.com/jk-bose-class-11.html
+================================================================================
