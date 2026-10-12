@@ -1,0 +1,106 @@
+================================================================================
+JAMMU AND KASHMIR STATE BOARD OF SCHOOL EDUCATION (JKBOSE)
+HIGHER SECONDARY EXAMINATION PART-I (CLASS 11TH) - OFFICIAL QUESTION PAPER
+================================================================================
+EXAM PAPER TITLE : JK-BOSE-CLASS-11-BIOLOGY-ZOOLOGY-211-B-2025
+SUBJECT          : BIOLOGY (CLASS 11TH)
+CLASS / LEVEL    : Class 11TH
+EXAMINATION YEAR : 2025
+SERIES / SET     : SET B
+QUESTION CODE    : 211
+MAXIMUM MARKS    : 70 MARKS
+TIME ALLOWED     : 3 HOURS
+================================================================================
+
+GENERAL INSTRUCTIONS:
+--------------------------------------------------------------------------------
+  (1) The question paper comprises two sections: Section A (Botany) and Section B (Zoology).
+  (2) Both sections are compulsory and carry 35 marks each.
+  (3) Questions with internal choices are provided in the long answer category.
+  (4) Draw neat, labelled diagrams wherever necessary.
+--------------------------------------------------------------------------------
+
+================================================================================
+SECTION A : BOTANY : PLANT DIVERSITY, ANATOMY, CELL BIOLOGY, AND PLANT PHYSIOLOGY
+[Q. 01 to Q. 07 [35 Marks]]
+================================================================================
+
+Q.01 [1 Mark] (Biological Classification):
+     Five kingdom classification was proposed by:
+
+     (A) Carolus Linnaeus
+     (B) R.H. Whittaker
+     (C) Ernst Mayr
+     (D) Aristotle
+
+Q.02 [1 Mark] (Plant Morphology):
+     A sterile stamen is known as:
+
+     (A) Staminode
+     (B) Pistillode
+     (C) Carpellode
+     (D) Antheridium
+
+Q.03 [2 Marks] (Cell Biology):
+     Differentiate between Gram-positive and Gram-negative bacteria based on cell wall composition.
+
+Q.04 [2 Marks] (Cell Division):
+     What is crossing over? Name the sub-stage of Prophase-I of Meiosis in which crossing over occurs.
+
+Q.05 [3 Marks] (Photosynthesis in Higher Plants):
+     Explain the Hatch and Slack pathway (C₄ pathway) of carbon fixation with an anatomical and biochemical diagram.
+
+Q.06 [3 Marks] (Plant Growth Regulators):
+     Enumerate the physiological roles of Auxins and Gibberellins in agricultural and horticultural practices.
+
+Q.07 [5 Marks] (Plant Anatomy / Physiology):
+     Describe the Calvin cycle (C₃ pathway) in detail with a schematic diagram. Explain how many molecules of ATP and NADPH are required to produce one molecule of glucose.
+
+     ----------------------------------------------------------------------
+     OR
+     Give an illustrated account of the internal structure of a Dicot Stem and compare it with a Monocot Stem.
+
+================================================================================
+SECTION B : ZOOLOGY : ANIMAL DIVERSITY, BIOMOLECULES, AND HUMAN PHYSIOLOGY
+[Q. 08 to Q. 14 [35 Marks]]
+================================================================================
+
+Q.08 [1 Mark] (Animal Kingdom):
+     Which of the following phyla possesses water vascular system (ambulacral system)?
+
+     (A) Arthropoda
+     (B) Annelida
+     (C) Echinodermata
+     (D) Mollusca
+
+Q.09 [1 Mark] (Biomolecules):
+     Which of the following is a non-reducing sugar?
+
+     (A) Glucose
+     (B) Maltose
+     (C) Sucrose
+     (D) Lactose
+
+Q.10 [2 Marks] (Circulation):
+     Explain the physiological events occurring during the cardiac cycle in humans.
+
+Q.11 [2 Marks] (Excretion):
+     Explain the counter-current mechanism operated by Henle's loop and vasa recta in concentrating urine.
+
+Q.12 [3 Marks] (Neural Control & Coordination):
+     Describe the generation and conduction of a nerve impulse along an unmyelinated axon with resting and action potentials.
+
+Q.13 [3 Marks] (Chemical Coordination):
+     Explain the mechanism of hormone action of peptide hormones versus steroid hormones.
+
+Q.14 [5 Marks] (Human Physiology):
+     Describe the human respiratory system with a neat diagram and explain the transport of Oxygen (O₂) and Carbon Dioxide (CO₂) in blood.
+
+     ----------------------------------------------------------------------
+     OR
+     Give a detailed account of the structure of a human nephron with a labelled diagram. Explain the mechanism of glomerular filtration, selective reabsorption, and tubular secretion.
+
+================================================================================
+[END OF QUESTION PAPER - JK-BOSE-CLASS-11-BIOLOGY-ZOOLOGY-211-B-2025]
+Official Source Archive: https://www.jkboseonline.com/jk-bose-class-11.html
+================================================================================
